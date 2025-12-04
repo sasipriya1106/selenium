@@ -10,5 +10,4 @@ public class JenkinsPracticeTest {
 		Reporter.log("bye jenkins",true);
 		Reporter.log("hibye jenkins",true);
 	}
-
 }
