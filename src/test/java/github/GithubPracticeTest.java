@@ -11,6 +11,8 @@ public class GithubPracticeTest {
 //		System.out.println(BROWSER);
 //		String username=System.getProperty("username");
 //		System.out.println(username);
+		Reporter.log("bYEE ",true);
+		
 	}
 
 }
